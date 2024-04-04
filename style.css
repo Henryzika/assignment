@@ -1,0 +1,26 @@
+h1 {
+    padding: 0%;
+    border:0cm;
+    font-size: medium;
+    font-family: sans-serif;
+    font-style: italic;
+}
+nav {
+    padding: 20%;
+    border-radius: 0%;
+    background-size: contain;
+    background-color: aqua;
+
+}
+ul{
+    border:0%;
+    float: left;
+    flex: 30%;
+    flex-direction: initial;
+}
+ul li {
+    font-size: medium;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    font-style: italic;
+}
